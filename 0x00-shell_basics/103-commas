@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -paxXmv
+file --mime-type school.mgc
